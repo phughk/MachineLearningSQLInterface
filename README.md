@@ -1,4 +1,4 @@
-The idea behind this project is to provide data exploration algorithms on top of an SQL interface.
+The idea behind this project is to provide data exploration algorithms on top of a provided SQL database.
 
 The SQL credentials should be provided as parameter variables or environment variables as described below (TODO).
 
